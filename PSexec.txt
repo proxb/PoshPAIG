@@ -1,0 +1,3 @@
+Download and place PSexec.exe in this folder, otherwise the Install portion of this UI will not work.
+PSExec available here:
+http://technet.microsoft.com/en-us/sysinternals/bb897553
